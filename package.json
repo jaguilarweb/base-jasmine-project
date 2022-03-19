@@ -1,0 +1,12 @@
+{
+  "name": "base-ts-project",
+  "version": "1.0.0",
+  "description": "Este proyecto contiene la configuración base de un proyecto que incluye Typescript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
