@@ -5,7 +5,7 @@ Este proyecto contiene la configuración base de un proyecto que incluye Typescr
 ## Pasos
 
 Crear una carpeta que será el proyecto.
-Crear una nueva carpeta llamada ‘src’
+Crear una nueva carpeta llamada ‘src’ 
 Crear, dentro de 'src', un archivo index.ts
 Inicializar el proyecto con npm ``` npm init -y ```
 Agregar typescript con npm ```npm i —save-dev typescript```
